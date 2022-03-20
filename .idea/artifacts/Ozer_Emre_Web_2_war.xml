@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ozer_Emre_Web_2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Ozer_Emre_Web_2</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Website_s2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ozer_Emre_Web_2:war exploded" />
+    </root>
+  </artifact>
+</component>
